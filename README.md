@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anshhh07-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/anshhh07/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anshhh07-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blue-one-46.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Chauhan-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-chauhan)
 [![Email](https://img.shields.io/badge/Email-chauhanansh971%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhanansh971@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anshhh07-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshhh07)
@@ -269,17 +269,6 @@ Attended an intensive applied ML workshop covering the end-to-end supervised lea
 
 ---
 
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-anshhh07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anshhh07)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-anshhh07-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anshhh07)
-[![HackerRank](https://img.shields.io/badge/HackerRank-anshhh07-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/anshhh07)
-[![CodeChef](https://img.shields.io/badge/CodeChef-anshhh07-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anshhh07)
-
-</div>
-
 ---
 
 ## ◈ GitHub Analytics
@@ -371,7 +360,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/chauhanansh971%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhanansh971@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-chauhan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshhh07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/anshhh07/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blue-one-46.vercel.app/)
 
 </div>
 
